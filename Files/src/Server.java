@@ -23,7 +23,7 @@ public class Server {
 			System.out.println(line);
 		}
 
-		
+		inputStream.close();
 		
 	}
 }
